@@ -1,5 +1,18 @@
-#+Title: Course Organization of Safe Autonomy: Spring 2021
+#+Title: Safe Autonomy: Spring 2021
 #+Author: Parasara Sridhar Duggirala
+
+| Instructor   | Parasara *Sridhar* Duggirala |
+| Class        | TuTh 11:00 am - 12:15 pm     |
+| Email        | psd@cs.unc.edu               |
+| Office Hours | TBD                          |
+
+This course is at the intersection of Formal Methods, Control Theory, Robotics, and Machine Learning. This course is divided into 3 parts.
+
+1) Introductory lectures on Formal Methods, Control, and Machine Learning.
+2) Paper reading, discussion, student presentations, and critique.
+3) Project discussion and presentations.
+
+The 
 
 * Topics
 
