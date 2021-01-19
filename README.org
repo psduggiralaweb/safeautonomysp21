@@ -50,38 +50,38 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 
 * Schedule
 
-| Date  | Topic                                             |
-| 01/19 | Introduction.                                     |
-| 01/21 | Mathematical Logic and Rigorous Specification     |
-| 01/26 | Temporal Logics, SAT/SMT, and Model Checking      |
-| 01/28 | Introduction to Control, System ID, PID control   |
-| 02/02 | Introduction to Linear Control Systems            |
-| 02/04 | Lyapunov based control                            |
-| 02/09 | Other control techniques: Optimal Control and MPC |
-| 02/11 | Proving safety properties of controllers          |
-| 02/16 | Sampling based motion planning and their safety   |
-| 02/18 | Introduction to Reinforcement learning            |
-| 02/23 | Safe reinforcement learning : Introduction        |
-| 02/25 | Neural Network Verification                       |
-| 03/02 | Paper Discussions                                 |
-| 03/04 |                                                   |
-| 03/09 |                                                   |
-| 03/11 |                                                   |
-| 03/16 |                                                   |
-| 03/18 |                                                   |
-| 03/23 |                                                   |
-| 03/25 |                                                   |
-| 03/30 |                                                   |
-| 04/01 |                                                   |
-| 04/06 |                                                   |
-| 04/08 |                                                   |
-| 04/13 |                                                   |
-| 04/15 |                                                   |
-| 04/20 |                                                   |
-| 04/22 | /Tentative: Project Presentations/                |
-| 04/27 |                                                   |
-| 04/29 |                                                   |
-| 05/04 | Last Class: Conclusion                            |
+| Date  | Topic                                             | Links     | Slides    |
+| 01/19 | Introduction.                                     | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3dfcaa-8615-4de6-985e-acb50128596f][Lecture 1]] | [[file:Slides/2021-01-19-Lec-1.pdf][Lecture 1]] |
+| 01/21 | Mathematical Logic and Rigorous Specification     |           |           |
+| 01/26 | Temporal Logics, SAT/SMT, and Model Checking      |           |           |
+| 01/28 | Introduction to Control, System ID, PID control   |           |           |
+| 02/02 | Introduction to Linear Control Systems            |           |           |
+| 02/04 | Lyapunov based control                            |           |           |
+| 02/09 | Other control techniques: Optimal Control and MPC |           |           |
+| 02/11 | Proving safety properties of controllers          |           |           |
+| 02/16 | Sampling based motion planning and their safety   |           |           |
+| 02/18 | Introduction to Reinforcement learning            |           |           |
+| 02/23 | Safe reinforcement learning : Introduction        |           |           |
+| 02/25 | Neural Network Verification                       |           |           |
+| 03/02 | Paper Discussions                                 |           |           |
+| 03/04 |                                                   |           |           |
+| 03/09 |                                                   |           |           |
+| 03/11 |                                                   |           |           |
+| 03/16 |                                                   |           |           |
+| 03/18 |                                                   |           |           |
+| 03/23 |                                                   |           |           |
+| 03/25 |                                                   |           |           |
+| 03/30 |                                                   |           |           |
+| 04/01 |                                                   |           |           |
+| 04/06 |                                                   |           |           |
+| 04/08 |                                                   |           |           |
+| 04/13 |                                                   |           |           |
+| 04/15 |                                                   |           |           |
+| 04/20 |                                                   |           |           |
+| 04/22 | /Tentative: Project Presentations/                |           |           |
+| 04/27 |                                                   |           |           |
+| 04/29 |                                                   |           |           |
+| 05/04 | Last Class: Conclusion                            |           |           |
 
 * Resources
 
