@@ -8,14 +8,49 @@
 
 This course is at the intersection of Formal Methods, Control Theory, Robotics, and Machine Learning. This course is divided into 3 parts.
 
-1) Introductory lectures on Formal Methods, Control, and Machine Learning.
+1) Introductory lectures on Formal Methods, Control, Robotics, and Machine Learning.
 2) Paper reading, discussion, student presentations, and critique.
 3) Project discussion and presentations.
 
-The 
+The primary learning objective in this course is to introduce students to the ongoing research in the domain of autonomy with a specific focus on safety analysis. This would require understanding the following tools and techniques.
+
+1. Tools and techniques for modeling and verification of systems specifications in a rigorous manner.
+2. Foundations of Control and application of optimization techniques in Control.
+3. Learning based techniques and their applications in Robotics and Control.
+4. Ongoing research on rigorous analysis of Learning and Control.
 
 * Topics
+
+Given the vast breadth of the course, the topics will be covered in an introductory manner. We will get deeper into each of these topics as we go through the papers.
+
+ + Mathematical Logic
+ + First Order Logic and Temporal Logic
+ + SAT/SMT and Model Checking
+ + Foundations of Control
+ + Linear vs Nonlinear Control
+ + Important techniques in Controls.
+   - Lyapunov based Control.
+   - Model Predictive Control.
+   - Optimal Control.
+ + Hybrid systems.
+ + Verification techniques for control systems.
+ + Path planning.
+ + Neural Networks as function Approximators.
+ + Verification of Neural Networks.
 
 * Schedule
 
 * Resources
+
+** Reference Textbooks
+ + *Logic in Computer Science* by /Huth and Ryan/.
+ + *Model Checking* by /Baier and Katoen/.
+ + *Calculus of Computation* by /Manna and Bradley/.
+ + *Linear Systems Theory* by /Hespanha/.
+ + *Nonlinear Systems* by /Khalil/.
+ + *Hybrid Dynamical Systems* by /Goebel, Sanfelice, and Teel/.
+ + *Principles of Cyber-Physical Systems* by /Alur/.
+ + *Introduction to Embedded Systems a Cyber-Physical Systems Approach* by /Lee and Seshia/.
+ + *Verifying Cyber-Physical Systems: A Path to Safe Autonomy* by /Mitra/.
+ + *Dynamic Programming and Optimal Control* by /Bertsekas/.
+ + *Planning Algorithms* by /LaValle/.
