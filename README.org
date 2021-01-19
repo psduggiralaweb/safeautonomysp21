@@ -19,6 +19,16 @@ The primary learning objective in this course is to introduce students to the on
 3. Learning based techniques and their applications in Robotics and Control.
 4. Ongoing research on rigorous analysis of Learning and Control.
 
+* Course Requirements
+
+Course attendance is required and is essential as the main focus of this course is to discuss papers. Studentsare expected to follow the UNC honor code: [[http://honor.unc.edu/][http://honor.unc.edu/]]. Active class participation is encouraged.
+
+** Prerequisits
+There are no explicit prerequisits for the course. It would be beneficial to have knowledge of mathematical foundations such as differential equations, linear algebra, probability, mathematical logic, and theory of computation. The instructor will give a basic primer and several references for background reading if the student feels that they need to read more on the background of a specific topic. The goal of this course is the expose the students to the ongoing research in the domain of autonomous systems with a focus of safety. While it is not expected that you understand every single detail of all the papers, you are expected to make the best effort to learn and actively contribute to the class.
+
+** Academic Honesty
+Refer to UNC’shonor code at http://instrument.unc.edu/ for a discussion on Academic Honesty. If you are in doubt about any aspect of the honor code, please ask. Collaboration on assignments is encouraged. However, what you hand in must be your own solution with your own writing/typing/source code. Turning in virtually identical work is not acceptable. Good scholarship requires that all collaboration must beacknowledged. Thus, if you collaborate on the solution of a problem set, you have to list your collaborators at the top of the page. Collaboration on quizzes or exams (if applicable) is not permitted and a violation of the Honor Code, see http://www.cs.unc.edu/Admin/Courses/HonorCode.html. If you consult any outside sources when doing your work, you are expected to fully document those sources. Give credit where creditis due. Plagiarism will not be tolerated.
+
 * Topics
 
 Given the vast breadth of the course, the topics will be covered in an introductory manner. We will get deeper into each of these topics as we go through the papers.
@@ -40,7 +50,42 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 
 * Schedule
 
+| Date  | Topic                                             |
+| 01/19 | Introduction.                                     |
+| 01/21 | Mathematical Logic and Rigorous Specification     |
+| 01/26 | Temporal Logics, SAT/SMT, and Model Checking      |
+| 01/28 | Introduction to Control, System ID, PID control   |
+| 02/02 | Introduction to Linear Control Systems            |
+| 02/04 | Lyapunov based control                            |
+| 02/09 | Other control techniques: Optimal Control and MPC |
+| 02/11 | Proving safety properties of controllers          |
+| 02/16 | Sampling based motion planning and their safety   |
+| 02/18 | Introduction to Reinforcement learning            |
+| 02/23 | Safe reinforcement learning : Introduction        |
+| 02/25 | Neural Network Verification                       |
+| 03/02 | Paper Discussions                                 |
+| 03/04 |                                                   |
+| 03/09 |                                                   |
+| 03/11 |                                                   |
+| 03/16 |                                                   |
+| 03/18 |                                                   |
+| 03/23 |                                                   |
+| 03/25 |                                                   |
+| 03/30 |                                                   |
+| 04/01 |                                                   |
+| 04/06 |                                                   |
+| 04/08 |                                                   |
+| 04/13 |                                                   |
+| 04/15 |                                                   |
+| 04/20 |                                                   |
+| 04/22 | /Tentative: Project Presentations/                |
+| 04/27 |                                                   |
+| 04/29 |                                                   |
+| 05/04 | Last Class: Conclusion                            |
+
 * Resources
+
+** Papers
 
 ** Reference Textbooks
  + *Logic in Computer Science* by /Huth and Ryan/.
@@ -54,3 +99,5 @@ Given the vast breadth of the course, the topics will be covered in an introduct
  + *Verifying Cyber-Physical Systems: A Path to Safe Autonomy* by /Mitra/.
  + *Dynamic Programming and Optimal Control* by /Bertsekas/.
  + *Planning Algorithms* by /LaValle/.
+ + *Deep Learning* by /Courville, Goodfellow, and Bengio/.
+ + *Reinforcement Learning* by /Sutton and Batro/.
