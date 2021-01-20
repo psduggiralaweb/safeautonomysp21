@@ -109,3 +109,11 @@ Given the vast breadth of the course, the topics will be covered in an introduct
  + *Planning Algorithms* by /LaValle/.
  + *Deep Learning* by /Courville, Goodfellow, and Bengio/.
  + *Reinforcement Learning* by /Sutton and Batro/.
+   
+** Similar Courses
+ - [[https://www.kth.se/social/group/safe-autonomy/][https://www.kth.se/social/group/safe-autonomy/]]
+ - [[https://www.cs.cmu.edu/~cliu6/provably-safe-robotics.html][https://www.cs.cmu.edu/~cliu6/provably-safe-robotics.html]]
+ - [[https://publish.illinois.edu/safe-autonomy/home-spring-2020/][https://publish.illinois.edu/safe-autonomy/home-spring-2020/]]
+ - [[https://rtg.cis.upenn.edu/cis700-2019/reading.html][https://rtg.cis.upenn.edu/cis700-2019/reading.html]]
+ - [[https://dorsa.fyi/cs333/][https://dorsa.fyi/cs333/]]
+ - [[https://courses.f1tenth.org/][https://courses.f1tenth.org/]]
