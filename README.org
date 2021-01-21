@@ -87,6 +87,9 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 ** Lecture 1
 + F-16 GCAS model. [[https://github.com/stanleybak/AeroBenchVVPython][Github Link]].
 + New and Upcoming conferences in Autonomy: [[https://l4dc.ethz.ch/][L4DC]] and [[https://www.robot-learning.org/][CoRL]].
+** Lecture 2
++ Recommended books: *Calculus of Computation* and *Model Checking*
+
 * Resources
 
 ** Papers
