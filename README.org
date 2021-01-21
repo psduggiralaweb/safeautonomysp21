@@ -52,7 +52,7 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 
 | Date  | Topic                                             | Links     | Slides    |
 | 01/19 | Introduction.                                     | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3dfcaa-8615-4de6-985e-acb50128596f][Lecture 1]] | [[file:Slides/2021-01-19-Lec-1.pdf][Lecture 1]] |
-| 01/21 | Mathematical Logic and Rigorous Specification     |           |           |
+| 01/21 | Mathematical Logic and Rigorous Specification     | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fad53ba3-794d-4c82-b09c-acb70124b9aa][Lecture 2]] | [[file:Slides/2021-01-21-Lec-2.pdf][Lecture 2]] |
 | 01/26 | Temporal Logics, SAT/SMT, and Model Checking      |           |           |
 | 01/28 | Introduction to Control, System ID, PID control   |           |           |
 | 02/02 | Introduction to Linear Control Systems            |           |           |
