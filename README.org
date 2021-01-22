@@ -98,6 +98,12 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 
 *** Suggested by instructor.
 
+**** Control
+
+**** Robotics
+
+**** Machine Learning
+
 ** Reference Textbooks
  + *Logic in Computer Science* by /Huth and Ryan/.
  + *Model Checking* by /Baier and Katoen/.
