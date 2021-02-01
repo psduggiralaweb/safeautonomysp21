@@ -54,7 +54,7 @@ Given the vast breadth of the course, the topics will be covered in an introduct
 | 01/19 | Introduction.                                     | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3dfcaa-8615-4de6-985e-acb50128596f][Lecture 1]] | [[file:Slides/2021-01-19-Lec-1.pdf][Lecture 1]] |
 | 01/21 | Mathematical Logic and Rigorous Specification     | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fad53ba3-794d-4c82-b09c-acb70124b9aa][Lecture 2]] | [[file:Slides/2021-01-21-Lec-2.pdf][Lecture 2]] |
 | 01/26 | Temporal Logics, SAT/SMT, and Model Checking      | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7eff2a24-7444-4656-b1c6-acbc012c0078][Lecture 3]] | [[file:Slides/2021-01-26-Lec-3.pdf][Lecture 3]] |
-| 01/28 | Introduction to Control, System ID, PID control   |           |           |
+| 01/28 | Introduction to Control, System ID, PID control   | [[https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=600682dc-e6c4-46bb-b1f4-acbe01314eba][Lecture 4]] | [[file:Slides/2021-01-28-Lec-4.pdf][Lecture 4]] |
 | 02/02 | Introduction to Linear Control Systems            |           |           |
 | 02/04 | Lyapunov based control                            |           |           |
 | 02/09 | Other control techniques: Optimal Control and MPC |           |           |
